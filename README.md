@@ -9,7 +9,7 @@ Here is the link to the
 
 This is an alx and holberton school portfolio project, for my software engineering program.
 
-[![Watch the video](</img/Screenshot%20(8).png>)](https://www.youtube.com/watch?v=WH0RVRgH7u0&feature=youtu.be)
+[![Watch the video](https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500)](https://www.youtube.com/watch?v=WH0RVRgH7u0&feature=youtu.be)
 
 ## Installation
 
