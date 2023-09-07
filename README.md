@@ -1,11 +1,15 @@
 # ALX PORTFOLIO SITE PROJECT
 
+![Hero Screenshot](</img/Screenshot%20(8).png>)
+
 This is my Portfolio website, Everyhhing you need to know about me can be found here.
 
 Here is the link to the
 [Home Page](https://anihpatrickugo.github.io/)
 
 This is an alx and holberton school portfolio project, for my software engineering program.
+
+[![Watch the video](</img/Screenshot%20(8).png>)](https://www.youtube.com/watch?v=WH0RVRgH7u0&feature=youtu.be)
 
 ## Installation
 
@@ -50,6 +54,7 @@ Please make sure to update tests as appropriate.
 ## Author
 
 [Anih-Patrick Ugochukwu](https://twitter.com/anihpatrickugo/)
+![Author](/img/profile.jpg)
 
 email: iampatrickugo@gmail.com
 
